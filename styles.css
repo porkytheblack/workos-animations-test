@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 
 :root{
   --light-1: #29363D;
@@ -6,7 +6,7 @@
   --light-3: #8F96BD;
   --dark-2: #C5CAE8;
   --dark-3: #878CA6;
-  --cool-bg: #030527;
+  --cool-bg: #030527;       
 }
 
 body {
@@ -349,19 +349,7 @@ img{
 }
 
 
-.don{
-  position: fixed;
-  z-index: 4;
-  width: 400px;
-  height: auto;
-  max-width: 728px;   
-  margin-top: -96px;
-  margin-bottom: -96px;
-  color: white;
-  font-family: 'Roboto', sans-serif;
-  z-index: 20;
-  top: 100px;
-}
+
 
 .heart{
   color: red;
